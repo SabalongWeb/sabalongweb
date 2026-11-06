@@ -88,7 +88,7 @@ export default function RootLayout({
       <head>
         <meta
           name="google-site-verification"
-          content="oR1vFDbIf-85CemIwzQupghHx1F07kWTM9UCqgzdTG8"
+          content="snByu-OlWDq78th_BWIy4-AswYcfZnTaE5H4VnRkPKE"
         />
       </head>
       <body className="flex min-h-full flex-col">
